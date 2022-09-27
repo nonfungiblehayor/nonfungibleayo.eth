@@ -1,16 +1,16 @@
-### Hello there, I'm Eibrahi Ayodeji 👋🏽
+### Hello there, I'm Eibrahim Ayodeji 👋🏽
 
-![Hey there,](https://drive.google.com/file/d/1QQ7_5gkjDSEc293RqBb3WpN7kmP9e0w5/view?usp=sharing)
+<img src="banner.png" alt="banner">
 
  ## Projects
  - <a href="https://eth-converter-4cbz.vercel.app/"> ETH calculator </a> 
- - <a href=" https://fund-raiser.vercel.app/"> fund raiser dapp </a>
- - <a href=" https://phinol.com"> Phinol's official website </a>
+ - <a href="https://fund-raiser.vercel.app/"> fund raiser dapp </a>
+ - <a href="https://phinol.com"> Phinol's official website </a>
 
 ### Connect with me:
 
 
- [<img align="left" alt="clairy_charles | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/0x_founder) <br>
+ [<img align="left" alt="nonfungibleayo.eth" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/0x_founder) <br>
 
 ### 🧰 Toolbox
 
