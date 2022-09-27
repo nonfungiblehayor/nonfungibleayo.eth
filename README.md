@@ -10,7 +10,7 @@
 ### Connect with me:
 
 
- [<img align="left" alt="nonfungibleayo.eth" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/0x_founder) <br>
+ [<img align="left" alt="nonfungibleayo.eth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/0x_founder) <br>
 
 ### 🧰 Toolbox
 
